@@ -1,0 +1,14 @@
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\bin\Release\net10.0\StreamEngine.exe
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\bin\Release\net10.0\StreamEngine.deps.json
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\bin\Release\net10.0\StreamEngine.runtimeconfig.json
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\bin\Release\net10.0\StreamEngine.dll
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\bin\Release\net10.0\StreamEngine.pdb
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\obj\Release\net10.0\StreamEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\obj\Release\net10.0\StreamEngine.AssemblyInfoInputs.cache
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\obj\Release\net10.0\StreamEngine.AssemblyInfo.cs
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\obj\Release\net10.0\StreamEngine.csproj.CoreCompileInputs.cache
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\obj\Release\net10.0\StreamEngine.dll
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\obj\Release\net10.0\refint\StreamEngine.dll
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\obj\Release\net10.0\StreamEngine.pdb
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\obj\Release\net10.0\StreamEngine.genruntimeconfig.cache
+C:\Users\CASALAB\Desktop\Amato Antonio\StreamEngine\StreamEngine\obj\Release\net10.0\ref\StreamEngine.dll

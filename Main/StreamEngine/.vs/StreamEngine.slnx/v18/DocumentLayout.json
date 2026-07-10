@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CASALAB\\Desktop\\Amato Antonio\\StreamEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4755EF-ED19-0DF6-E2FF-1B8156B9FF0C}|StreamEngine\\StreamEngine.csproj|c:\\users\\casalab\\desktop\\amato antonio\\streamengine\\streamengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4755EF-ED19-0DF6-E2FF-1B8156B9FF0C}|StreamEngine\\StreamEngine.csproj|solutionrelative:streamengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4755EF-ED19-0DF6-E2FF-1B8156B9FF0C}|StreamEngine\\StreamEngine.csproj|c:\\users\\casalab\\desktop\\amato antonio\\streamengine\\streamengine\\models\\gazedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4755EF-ED19-0DF6-E2FF-1B8156B9FF0C}|StreamEngine\\StreamEngine.csproj|solutionrelative:streamengine\\models\\gazedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4755EF-ED19-0DF6-E2FF-1B8156B9FF0C}|StreamEngine\\StreamEngine.csproj|c:\\users\\casalab\\desktop\\amato antonio\\streamengine\\streamengine\\tobii\\bindings\\tobii.streamengine.interop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4755EF-ED19-0DF6-E2FF-1B8156B9FF0C}|StreamEngine\\StreamEngine.csproj|solutionrelative:streamengine\\tobii\\bindings\\tobii.streamengine.interop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tobii.StreamEngine.Interop.cs",
+              "DocumentMoniker": "C:\\Users\\CASALAB\\Desktop\\Amato Antonio\\StreamEngine\\StreamEngine\\tobii\\bindings\\Tobii.StreamEngine.Interop.cs",
+              "RelativeDocumentMoniker": "StreamEngine\\tobii\\bindings\\Tobii.StreamEngine.Interop.cs",
+              "ToolTip": "C:\\Users\\CASALAB\\Desktop\\Amato Antonio\\StreamEngine\\StreamEngine\\tobii\\bindings\\Tobii.StreamEngine.Interop.cs",
+              "RelativeToolTip": "StreamEngine\\tobii\\bindings\\Tobii.StreamEngine.Interop.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:22:59.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CASALAB\\Desktop\\Amato Antonio\\StreamEngine\\StreamEngine\\Program.cs",
+              "RelativeDocumentMoniker": "StreamEngine\\Program.cs",
+              "ToolTip": "C:\\Users\\CASALAB\\Desktop\\Amato Antonio\\StreamEngine\\StreamEngine\\Program.cs",
+              "RelativeToolTip": "StreamEngine\\Program.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAQwIwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:21:57.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GazeData.cs",
+              "DocumentMoniker": "C:\\Users\\CASALAB\\Desktop\\Amato Antonio\\StreamEngine\\StreamEngine\\Models\\GazeData.cs",
+              "RelativeDocumentMoniker": "StreamEngine\\Models\\GazeData.cs",
+              "ToolTip": "C:\\Users\\CASALAB\\Desktop\\Amato Antonio\\StreamEngine\\StreamEngine\\Models\\GazeData.cs",
+              "RelativeToolTip": "StreamEngine\\Models\\GazeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:26:49.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
